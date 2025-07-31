@@ -1,0 +1,22 @@
+venv/
+.venv/
+
+__pycache__/
+*.py[cod]
+
+backend/.env
+backend/__pycache__/
+backend/*.log
+venv/
+env/
+
+# Logs
+*.log
+
+.idea/
+
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+npm-debug.log*
+Thumbs.db
